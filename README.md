@@ -2,4 +2,4 @@
 
 Nothing much to say about a simple calculator. 
 
-Click <a src='https://dyl-kh.github.io/simple-calculator/'>here</a> to see it live!
+Click [here](https://dyl-kh.github.io/simple-calculator/) to see it live!
